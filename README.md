@@ -4,7 +4,9 @@
 
 <div align="center">
   <h1>Memory Palace CLI</h1>
-  <p>A command line utility for generating and remembering complex passwords through<br />memory palace techniques and "choose your own adventure" style Q&A prompts</p>
+  <p>A command line utility for generating and remembering complex passwords through<br />memory palace techniques and "choose your own adventure" style Q&A prompts:<br />
+  https://www.npmjs.com/package/palace-cli
+  </p>
 </div>
 
 <br />
