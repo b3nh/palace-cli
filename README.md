@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img width="64%" src="misc/image.gif">
+  <img width="64%" src="https://user-images.githubusercontent.com/38316487/123796016-ff977500-d927-11eb-8b77-f6d71d9a00b5.gif">
 </div>
 
 <div align="center">
@@ -26,7 +27,7 @@ Type `palace-cli` into your command line to start the Q&A flow.
 <br />
 
 <div align="center">
-  <img width="100%" src="misc/palace-cli.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/38316487/123796120-2190f780-d928-11eb-9a1c-46ef4aaa46a5.png">
 </div>
 
 <br />
@@ -62,7 +63,7 @@ Amazon        a horse wearing clogs        E22401D69c2~B#4a7bE!DeE$8&0&3+0a3&fda
 
 <br />
 <div align="center">
-  <img width="100%" src="misc/output.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/38316487/123796084-150c9f00-d928-11eb-81dc-6fceae371be3.png">
 </div>
 
 <br />
