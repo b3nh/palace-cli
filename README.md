@@ -32,7 +32,7 @@ Type `palace-cli` into your command line to start the Q&A flow.
 <br />
 <br />
 
-The combination of your answers will always yield the same output.
+The same combination of answers will always yield the same output.
 
 <br />
 
@@ -58,17 +58,13 @@ ROOM          WHAT SEE YOU                 PASSWORD
 Github        a dog smoking a cigar        F54c0350Df2cE%2b4a8f4%9a4+Cf4~7&8^b~6@e@97e61
 
 Amazon        a horse wearing clogs        E22401D69c2~B#4a7bE!DeE$8&0&3+0a3&fdab4be4985
-
 ```
-
-\_\_
 
 <br />
 <div align="center">
   <img width="100%" src="misc/output.png">
 </div>
 
-<br />
 <br />
 
 ## Todo
