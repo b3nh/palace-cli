@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width="64%" src="https://user-images.githubusercontent.com/38316487/123796016-ff977500-d927-11eb-8b77-f6d71d9a00b5.gif">
 </div>
@@ -16,7 +15,15 @@
 npm install -g palace-cli
 ```
 
-_Note: You may need to run `sudo`._
+_Note: You may need to run `sudo`_
+
+<br />
+
+## Philosophy & Goals
+
+_The method of loci (loci being Latin for "places") is a strategy of memory enhancement which uses visualizations of familiar spatial environments in order to enhance the recall of information. The method of loci is also known as the memory journey, memory palace, or mind palace technique._
+
+<sup>— Source Wikipedia: https://en.wikipedia.org/wiki/Method_of_loci</sup>
 
 <br />
 
@@ -73,11 +80,3 @@ Amazon        a horse wearing clogs        E22401D69c2~B#4a7bE!DeE$8&0&3+0a3&fda
 • User defined custom places and characters/entities
 
 • Choose your own adventure flow
-
-<br />
-
-## Philosophy & Goals
-
-_The method of loci (loci being Latin for "places") is a strategy of memory enhancement which uses visualizations of familiar spatial environments in order to enhance the recall of information. The method of loci is also known as the memory journey, memory palace, or mind palace technique._
-
-<sup>— Source Wikipedia: https://en.wikipedia.org/wiki/Method_of_loci</sup>
