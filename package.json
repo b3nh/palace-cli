@@ -1,0 +1,45 @@
+{
+  "name": "palace-cli",
+  "version": "1.0.0",
+  "description": "A simple command line utility to generate passwords",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "@b3nh",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "inquirer": "^8.1.1"
+  },
+  "files": [
+    "src/"
+  ],
+  "keywords": [
+    "cli",
+    "password",
+    "utility"
+  ],
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "lint": "eslint --fix .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "editor.formatOnSave": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3nh/palace-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/b3nh/palace-cli/issues"
+  },
+  "homepage": "https://github.com/b3nh/palace-cli#readme"
+}
