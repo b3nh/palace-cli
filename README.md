@@ -1,17 +1,13 @@
-<div align="center">
-  <img width="64%" src="https://user-images.githubusercontent.com/38316487/123796016-ff977500-d927-11eb-8b77-f6d71d9a00b5.gif">
-</div>
+  <img width="40%" src="https://user-images.githubusercontent.com/38316487/123796016-ff977500-d927-11eb-8b77-f6d71d9a00b5.gif">
 
-<div align="center">
-  <h1>Memory Palace CLI</h1>
-  <p>A command line utility for generating and remembering complex passwords through<br />memory palace techniques and "choose your own adventure" style Q&A prompts:<br />
-  https://www.npmjs.com/package/palace-cli
-  </p>
-</div>
 
-<br />
 
-## Installation
+# Memory Palace CLI
+
+A command line utility for generating and remembering complex passwords through memory palace techniques and "choose your own adventure" style Q&A prompts: https://www.npmjs.com/package/palace-cli
+
+
+### Installation
 
 ```
 npm install -g palace-cli
@@ -19,17 +15,16 @@ npm install -g palace-cli
 
 _Note: You may need to run `sudo`_
 
-<br />
 
-## Philosophy & Goals
+### Philosophy & Goals
 
 _The method of loci (loci being Latin for "places") is a strategy of memory enhancement which uses visualizations of familiar spatial environments in order to enhance the recall of information. The method of loci is also known as the memory journey, memory palace, or mind palace technique._
 
 <sup>— Source Wikipedia: https://en.wikipedia.org/wiki/Method_of_loci</sup>
 
-<br />
 
-## Instructions
+
+### Instructions
 
 Type `palace-cli` into your command line to start the Q&A flow.
 
@@ -43,8 +38,6 @@ Type `palace-cli` into your command line to start the Q&A flow.
 <br />
 
 The same combination of answers will always yield the same output.
-
-<br />
 
 ```
 Which room do you wish to enter?
