@@ -10,7 +10,7 @@ A command line utility for generating and remembering complex passwords through 
 
 _"The method of loci (loci being Latin for 'places') is a strategy of memory enhancement which uses visualizations of familiar spatial environments in order to enhance the recall of information. The method of loci is also known as the memory journey, memory palace, or mind palace technique."_
 
-<sup>— Source Wikipedia: https://en.wikipedia.org/wiki/Method_of_loci</sup>
+— Source Wikipedia: https://en.wikipedia.org/wiki/Method_of_loci
 
 <hr>
 
