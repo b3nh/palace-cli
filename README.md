@@ -1,16 +1,16 @@
-  <img width="40%" src="https://user-images.githubusercontent.com/38316487/123796016-ff977500-d927-11eb-8b77-f6d71d9a00b5.gif">
-
+<img width="40%" src="https://user-images.githubusercontent.com/38316487/123796016-ff977500-d927-11eb-8b77-f6d71d9a00b5.gif">
 
 
 # Memory Palace CLI
 
-A command line utility for generating and remembering complex passwords through memory palace techniques and "choose your own adventure" style Q&A prompts: https://www.npmjs.com/package/palace-cli
+https://www.npmjs.com/package/palace-cli
+<br />
+<br />
+A command line utility for generating and remembering complex passwords through memory palace techniques and "choose your own adventure" style Q&A prompts.
 
 <hr>
 
-_"The method of loci (loci being Latin for 'places') is a strategy of memory enhancement which uses visualizations of familiar spatial environments in order to enhance the recall of information. The method of loci is also known as the memory journey, memory palace, or mind palace technique."_
-
-— Source Wikipedia: https://en.wikipedia.org/wiki/Method_of_loci
+_"The method of loci is a strategy of memory enhancement which uses visualizations of familiar spatial environments in order to enhance the recall of information. The method of loci is also known as the memory journey, memory palace, or mind palace technique."_ — Source Wikipedia: https://en.wikipedia.org/wiki/Method_of_loci
 
 <hr>
 
