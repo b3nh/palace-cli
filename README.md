@@ -20,19 +20,15 @@ _"The method of loci (loci being Latin for 'places') is a strategy of memory enh
 npm install -g palace-cli
 ```
 
-_Note: You may need to run `sudo`_
+Note: You may need to run `sudo`
 
 
 ### Instructions
 
 Type `palace-cli` into your command line to start the Q&A flow.
 
+<img width="100%" alt="palace-cli" src="https://user-images.githubusercontent.com/38316487/124353818-2ae1d300-dc4c-11eb-895e-64ca237674d5.png">
 
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/38316487/123796120-2190f780-d928-11eb-9a1c-46ef4aaa46a5.png">
-</div>
-
-<br />
 <br />
 
 The same combination of answers will always yield the same output.
